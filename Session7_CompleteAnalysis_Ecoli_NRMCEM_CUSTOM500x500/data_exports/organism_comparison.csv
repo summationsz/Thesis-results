@@ -1,0 +1,2 @@
+Organism,Total_Parameters,Glycolysis_Params,TCA_Params,Glycolysis_Error_%,TCA_Error_%,Overall_Error_%,Total_Runtime_Hours
+E. coli,38,22,16,9.16327134439753,26.24720652563218,16.35650721018054,5.0213780843549305

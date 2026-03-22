@@ -1,0 +1,9 @@
+============================================================
+COMPLETE ANALYSIS SUMMARY
+============================================================
+
+Organisms: bsubtilis
+Mode: CUSTOM500x500
+Total runtime: 26.29 hours
+
+All analyses completed successfully! [OK]

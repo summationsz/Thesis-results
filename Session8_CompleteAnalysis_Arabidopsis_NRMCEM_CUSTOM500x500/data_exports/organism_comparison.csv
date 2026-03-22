@@ -1,0 +1,2 @@
+Organism,Total_Parameters,Glycolysis_Params,TCA_Params,Glycolysis_Error_%,TCA_Error_%,Overall_Error_%,Total_Runtime_Hours
+Arabidopsis,38,22,16,142.70493648933927,32.4989596072959,96.30241990742627,4.6980985273255245

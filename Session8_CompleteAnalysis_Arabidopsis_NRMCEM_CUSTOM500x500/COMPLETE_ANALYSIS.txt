@@ -1,0 +1,9 @@
+============================================================
+COMPLETE ANALYSIS SUMMARY
+============================================================
+
+Organisms: arabidopsis
+Mode: CUSTOM500x500
+Total runtime: 4.70 hours
+
+All analyses completed successfully! [OK]

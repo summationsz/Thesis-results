@@ -1,0 +1,2 @@
+Organism,Total_Parameters,Glycolysis_Params,TCA_Params,Glycolysis_Error_%,TCA_Error_%,Overall_Error_%,Total_Runtime_Hours
+B. subtilis,38,22,16,142.70493648933927,27.71797506508204,94.28937378438886,26.2899002330833
