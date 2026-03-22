@@ -1,0 +1,9 @@
+============================================================
+COMPLETE ANALYSIS SUMMARY
+============================================================
+
+Organisms: ecoli
+Mode: CUSTOM500x500
+Total runtime: 5.02 hours
+
+All analyses completed successfully! [OK]
